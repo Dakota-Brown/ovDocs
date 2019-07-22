@@ -1,0 +1,15 @@
+site_name: OneVision Documentation
+nav:
+    - Home: index.md
+    - Tray.io: tray.md
+    - Zendesk: zendesk.md
+    - ActiveCampaign: activeCampaign.md
+    - Chargify: chargify.md
+    - Workflows: workflows.md
+extra_css:
+  - 'stylesheets/extra.css'
+theme:
+  name: 'material'
+  palette:
+    primary: 'indigo'
+    accent: 'amber'
